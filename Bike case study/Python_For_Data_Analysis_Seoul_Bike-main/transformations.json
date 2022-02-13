@@ -1,0 +1,34 @@
+{
+    "n_bike": {
+        "function": "standardization",
+        "mean": 24.260382303270198,
+        "std": 11.857801666356055
+    },
+    "temp": {
+        "function": "standardization",
+        "mean": 12.771057294743065,
+        "std": 12.104374809817012
+    },
+    "wind": {
+        "function": "standardization",
+        "mean": 0.9336337711263044,
+        "std": 0.37260169730335196
+    },
+    "dew": {
+        "function": "standardization",
+        "mean": 3.9449970466627367,
+        "std": 13.24239897997758
+    },
+    "hum": {
+        "function": "normalization",
+        "maxi": 98.0
+    },
+    "solar": {
+        "function": "normalization",
+        "maxi": 1.876166303929372
+    },
+    "dryness": {
+        "function": "normalization",
+        "maxi": 1.0
+    }
+}
